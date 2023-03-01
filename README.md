@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 # Crypto Tracker
  Crypto Tracker is a web application built with React that allows users to track the latest prices and market information for popular cryptocurrencies.
 
